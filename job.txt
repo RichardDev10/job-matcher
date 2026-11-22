@@ -1,0 +1,21 @@
+# WE'RE HIRING: AI ENGINEER
+
+**Job Type:** Full-Time  
+**Work Setup:** Remote / Hybrid / On-site
+
+**Job Description:**
+
+We are looking for a skilled and passionate AI Engineer to develop, implement, and maintain AI-powered solutions. The ideal candidate should have strong programming skills and a passion for artificial intelligence and emerging technologies.
+
+**Qualifications:**
+- Knowledge of Python programming.
+- Understanding of Machine Learning and Deep Learning.
+- Familiarity with AI tools, APIs, and LLMs.
+- Knowledge of TensorFlow, PyTorch, or Scikit-learn is an advantage.
+- Strong analytical and problem-solving skills.
+
+**How to Apply:**
+
+Send your updated resume and portfolio to **careers@company.com**.
+
+Join our team and help build the future with AI!
